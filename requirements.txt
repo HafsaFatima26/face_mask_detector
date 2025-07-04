@@ -1,0 +1,8 @@
+tf_nightly
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
+tensorflow
